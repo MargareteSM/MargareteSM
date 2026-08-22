@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 </p> </p>
 
-<h2 align="left">@MargareteSM</h2>
+<h2 align="left">Linguagens & Tecnologias</h2>
 
 <p align="left"> <a href="https://github.com/MargareteSM"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github" alt="Perfil GitHub"> </a> </p>
 
