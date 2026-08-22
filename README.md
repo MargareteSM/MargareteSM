@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Olá! Eu sou MargareteSM!
+
+<p align="left"> <img src="https://github.com/MargareteSM.png" width="150" height="150" alt="Foto de perfil"> </p>
+
+<h2 align="left">@MargareteSM</h2>
+
+<p align="left"> <a href="https://github.com/MargareteSM"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github" alt="Perfil GitHub"> </a> </p>
