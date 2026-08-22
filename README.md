@@ -2,7 +2,7 @@
 
 Sou Margarete, educadora, profissional da área de Língua Portuguesa e, atualmente, em transição e expansão de carreira para o universo de UI/UX Design, Front-End, Back-End, tecnologia e inovação.
 
-Sou licenciada em Letras — Língua Portuguesa e Literaturas pela Universidade Católica de Brasília e pós-graduada em Língua Portuguesa pela Universidade Salgado de Oliveira. Minha trajetória na educação começou ainda antes da graduação: em 1993, concluí o curso de Habilitação Específica do Ensino Médio para o exercício do Magistério em nível de Ensino Fundamental, pela Escola Normal de Ceilândia e concluí os Estudos Adicionais na área de Comunicação e Expressão pelo Centro Educacional de Niterói, no Rio de Janeiro.
+Sou licenciada em Letras — Língua Portuguesa e Literaturas pela Universidade Católica de Brasília e pós-graduada em Língua Portuguesa pela Universidade Salgado de Oliveira. Minha trajetória na educação começou ainda antes da graduação: concluí o curso de Habilitação Específica do Ensino Médio para o exercício do Magistério em nível de Ensino Fundamental, pela Escola Normal de Ceilândia e concluí os Estudos Adicionais na área de Comunicação e Expressão pelo Centro Educacional de Niterói, no Rio de Janeiro.
 
 Atuei na Secretaria de Estado de Educação do Distrito Federal (SEEDF), experiência que me proporcionou uma sólida formação em comunicação, linguagem, educação, planejamento, criatividade e desenvolvimento de pessoas.
 
