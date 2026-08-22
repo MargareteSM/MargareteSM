@@ -18,7 +18,7 @@ I 💜 Code! Code is Poetry!
 
 <h2 align="left">Linguagens & Tecnologias</h2>
 
-<p align="left"> <a href="https://github.com/MargareteSM"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"> </a> </p>
+<p align="left"> <a href="https://github.com/MargareteSM"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"></a> <a href="https://discord.gg/w9KmVbSTWp"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> </p>
 
 <p align="left">
 
