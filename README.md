@@ -12,7 +12,7 @@ Acredito que minha experiência de décadas com comunicação, linguagem, educa�
 
 🚀 Meu objetivo é unir educação + comunicação + criatividade + design + tecnologia, construindo uma nova etapa profissional e explorando as possibilidades que surgem na interseção entre pessoas e tecnologia.
 
-Code is Poetry!! 
+I 💜 Code! Code is Poetry! 
 
 <p align="left"> <p align="center">
 
@@ -36,7 +36,7 @@ Code is Poetry!!
 
 <p align="left">
 
-Obrigada pela visita! 💜
+Obrigada pela visita! I 💜 Code! Code is Poetry!
 
 Se algum dos meus projetos for útil para você, deixe uma ⭐!
 
