@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 Olá! Eu sou MargareteSM!
 
-<p align="left"> <img src="https://github.com/MargareteSM.png" width="150" height="150" alt="Foto de perfil"> </p>
+<p align="left"> </p>
 
 <h2 align="left">@MargareteSM</h2>
 
