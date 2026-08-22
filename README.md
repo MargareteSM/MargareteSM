@@ -14,11 +14,11 @@ Acredito que minha experiência de décadas com comunicação, linguagem, educa�
 
 I 💜 Code! Code is Poetry! 
 
-<p align="left"> <p align="center">
+<p align="left"> <a href="https://github.com/MargareteSM">
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-</p> </p>
+</a> </p>
 
 <h2 align="left">Linguagens & Tecnologias</h2>
 
