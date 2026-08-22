@@ -14,7 +14,7 @@ Acredito que minha experiência de décadas com comunicação, linguagem, educa�
 
 I 💜 Code! Code is Poetry! 
 
-<p align="left"> <p align="left"> <a href="https://github.com/MargareteSM"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"> </a> <a href="https://www.linkedin.com/in/margaretesm/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"> </a> </p> </p>
+<p align="left"> <a href="https://github.com/MargareteSM"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"> </a> <a href="https://www.linkedin.com/in/margaretesm"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"> </a> </p>
 
 <h2 align="left">Linguagens & Tecnologias</h2>
 
