@@ -17,6 +17,7 @@ I 💜 Code! Code is Poetry!
 <p align="left"> <a href="https://github.com/MargareteSM">
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white>" alt="Perfil GitHub">
 
 </a> </p>
 
