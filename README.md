@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 👋 Olá! Eu sou MargareteSM!
 
-<p align="left"> </p>
+<p align="left"> <p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&include_all_commits=true&count_private=false" alt="Estatísticas do GitHub">
+
+</p> </p>
 
 <h2 align="left">@MargareteSM</h2>
 
