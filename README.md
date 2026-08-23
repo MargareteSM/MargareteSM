@@ -34,7 +34,7 @@ I 💜 Code! Code is Poetry!
 
 <p align="left">
 
-Obrigada pela visita! I 💜 Code! Code is Poetry! 💜💜
+Obrigada pela visita! I 💜 Code! Code is Poetry! 💜💜💜
 
 Se algum dos meus projetos for útil para você, deixe uma ⭐!
 
