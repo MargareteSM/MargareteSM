@@ -1,0 +1,64 @@
+Aerial por HTML5 UP
+html5up.net | @ajlkn
+Gratuito para uso pessoal e comercial sob a licença CCA 3.0 (html5up.net/license)
+
+
+Este é o Aerial, um modelo de site responsivo de página única e tela única. Bem simples.
+Faz uso intenso de animações CSS (algo com que tenho experimentado bastante ultimamente).
+Deve funcionar bem como uma *landing page* que apenas direciona as pessoas para o seu conteúdo em outros lugares
+da web. Arquivos-fonte Sass também estão incluídos; então, se você nunca usou Sass e tem
+interesse em experimentar, visite sass-lang.com (e, se não quiser usar, pode
+excluir a pasta "sass/" sem problemas).
+
+O fundo montanhoso com efeito de rolagem foi derivado de "Icefields", de Ryan Schroeder,
+um fotógrafo talentoso de Vancouver que gentilmente disponibilizou a imagem no Unsplash sob
+a licença CC0. Não deixe de conferir outros trabalhos dele no Flickr (link abaixo),
+bem como todas as outras imagens incríveis licenciadas sob CC0 no Unsplash (unsplash.com).
+
+Dúvidas/comentários/problemas = basta enviar um e-mail ou me encontrar no Twitter. Divirta-se!
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+O Fundo com Rolagem:
+
+	Isso depende inteiramente de CSS para funcionar, o que é legal, mas torna
+	a alteração um pouco estranha ou complicada no início. Você ainda pode usar praticamente qualquer imagem
+	que quiser, mas, para obter melhores resultados, certifique-se de que a sua seja:
+
+	- De repetição horizontal (*tileable*).
+	- Larga e baixa (horizontalmente alongada).
+	- Com cerca de 1500px de largura.
+	- Com um degradê para uma cor sólida no topo ou na base (usado para preencher
+	  o espaço vazio acima ou abaixo da sua imagem).
+
+	Existem duas maneiras de usá-lo: com CSS ou com Sass:
+
+	CSS:
+
+		Procure por esta linha em css/style.css (linha 108 no momento em que escrevo isto):
+
+			background: #348cb2 url("images/bg.jpg") bottom left;
+
+		e use-a para definir a cor de fundo da página, a URL e o posicionamento
+		da sua imagem. A largura deve ser o mais próxima possível de 1500px.
+
+Sass:
+
+		Defina o valor de $bg com a cor de fundo da página, a URL e o
+		posicionamento da sua imagem. Altere $bg-width se a largura da sua
+		imagem for diferente de 1500px.
+
+
+Créditos:
+
+	Imagem de fundo:
+		Ryan Schroeder via Unsplash (unsplash.com - licença CC0)
+			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
+
+	Ícones:
+		Font Awesome (fontawesome.io)
+
+	Outros:
+		Responsive Tools (github.com/ajlkn/responsive-tools)
