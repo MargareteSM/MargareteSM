@@ -44,6 +44,14 @@ A planilha em que isso é registrado, e que recalcula o heatmap sozinha, é priv
 
 O gráfico verde nativo do GitHub, mais abaixo na página, continua contando só commits e outras ações feitas no GitHub. Estudo, passeio e exercício não entram nele.
 
+### Leituras — Algoritmos e Lógica de Programação
+
+O heatmap abaixo acompanha as páginas lidas em 2026. As cores ficam mais intensas conforme aumenta o número de páginas registrado em cada dia. O registro é compartilhado por ADS, SI e JD.
+
+<p align="left">
+  <img src="heatmap-leituras-2026.svg" alt="Heatmap de leituras de Algoritmos e Lógica de Programação em 2026. Ainda não há sessões registradas." />
+</p>
+
 <p align="left">
 
 Obrigada pela visita! I 💜 Code! Code is Poetry! 
