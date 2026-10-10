@@ -37,12 +37,12 @@ I 💜 Code! Code is Poetry!
 Frequência de estudo, passeio e exercício em 2026. Cada quadradinho é um dia. A cor mostra quantas atividades foram registradas: Alura, Curso em Vídeo, Unicesumar, passeio com o Pipoca, bicicleta e esteira.
 
 <p align="left">
-  <img src="heatmap-atividades.png" alt="Heatmap de atividades em 2026. Há um quadrado magenta em setembro, no dia 23, com 4 atividades.">
+  <img src="heatmap-atividades-2026.svg" alt="Heatmap de atividades de 2026. Quatro atividades registradas em 23 de setembro.">
 </p>
 
-A planilha em que isso é registrado, e que recalcula o heatmap sozinha, é privada: [Heatmap de Atividades](https://docs.google.com/spreadsheets/d/1sibErs1y6uUfq-cLZGV3jDgRF7028os2Tjuwcc7kZIk/edit).
+A planilha privada em que os registros são organizados é: [Heatmap de Atividades](https://docs.google.com/spreadsheets/d/1sibErs1y6uUfq-cLZGV3jDgRF7028os2Tjuwcc7kZIk/edit).
 
-O gráfico verde nativo do GitHub, mais abaixo na página, continua contando só commits e outras ações feitas no GitHub. Estudo, passeio e exercício não entram nele.
+Os heatmaps SVG deste perfil são imagens estáticas e precisam ser atualizados quando novos registros forem informados. O gráfico verde nativo do GitHub, mais abaixo na página, continua contando apenas commits e outras ações feitas no GitHub.
 
 ### Leituras — Algoritmos e Lógica de Programação
 
