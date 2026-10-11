@@ -37,7 +37,7 @@ I 💜 Code! Code is Poetry!
 Frequência de estudo, passeio e exercício em 2026. Cada quadradinho é um dia. A cor mostra quantas atividades foram registradas: Alura, Curso em Vídeo, Unicesumar, passeio com o Pipoca, bicicleta e esteira.
 
 <p align="left">
-  <img src="heatmap-atividades-2026.svg" alt="Heatmap de atividades de 2026. Quatro atividades registradas em 23 de setembro.">
+  <img src="heatmap-atividades-2026.svg?v=20261011" alt="Heatmap de atividades de 2026. Quatro atividades registradas em 23 de setembro.">
 </p>
 
 A planilha privada em que os registros são organizados é: [Heatmap de Atividades](https://docs.google.com/spreadsheets/d/1sibErs1y6uUfq-cLZGV3jDgRF7028os2Tjuwcc7kZIk/edit).
@@ -49,7 +49,7 @@ Os heatmaps SVG deste perfil são imagens estáticas e precisam ser atualizados 
 O heatmap abaixo acompanha as páginas lidas em 2026. As cores ficam mais intensas conforme aumenta o número de páginas registrado em cada dia. O registro é compartilhado por ADS, SI e JD.
 
 <p align="left">
-  <img src="heatmap-leituras-2026.svg" alt="Heatmap de leituras de Algoritmos e Lógica de Programação em 2026. Ainda não há sessões registradas." />
+  <img src="heatmap-leituras-2026.svg?v=20261011" alt="Heatmap de leituras de Algoritmos e Lógica de Programação em 2026. Ainda não há sessões registradas." />
 </p>
 
 <p align="left">
