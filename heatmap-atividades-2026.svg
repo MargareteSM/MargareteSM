@@ -3,17 +3,17 @@
 <desc id="desc">Quatro atividades em 23 de setembro de 2026. Nenhum outro dia tem registro na planilha consultada.</desc>
 <rect width="100%" height="100%" fill="#fff"/>
 <text x="38" y="12" font-size="10" fill="#1e293b">Jan</text>
-<text x="103" y="12" font-size="10" fill="#1e293b">Feb</text>
+<text x="103" y="12" font-size="10" fill="#1e293b">Fev</text>
 <text x="155" y="12" font-size="10" fill="#1e293b">Mar</text>
-<text x="207" y="12" font-size="10" fill="#1e293b">Apr</text>
-<text x="259" y="12" font-size="10" fill="#1e293b">May</text>
+<text x="207" y="12" font-size="10" fill="#1e293b">Abr</text>
+<text x="259" y="12" font-size="10" fill="#1e293b">Mai</text>
 <text x="324" y="12" font-size="10" fill="#1e293b">Jun</text>
 <text x="376" y="12" font-size="10" fill="#1e293b">Jul</text>
-<text x="428" y="12" font-size="10" fill="#1e293b">Aug</text>
-<text x="493" y="12" font-size="10" fill="#1e293b">Sep</text>
-<text x="545" y="12" font-size="10" fill="#1e293b">Oct</text>
+<text x="428" y="12" font-size="10" fill="#1e293b">Ago</text>
+<text x="493" y="12" font-size="10" fill="#1e293b">Set</text>
+<text x="545" y="12" font-size="10" fill="#1e293b">Out</text>
 <text x="610" y="12" font-size="10" fill="#1e293b">Nov</text>
-<text x="662" y="12" font-size="10" fill="#1e293b">Dec</text>
+<text x="662" y="12" font-size="10" fill="#1e293b">Dez</text>
 <text x="0" y="28" font-size="9" fill="#1e293b">Dom</text>
 <text x="0" y="41" font-size="9" fill="#1e293b">Seg</text>
 <text x="0" y="54" font-size="9" fill="#1e293b">Ter</text>
